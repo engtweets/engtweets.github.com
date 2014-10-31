@@ -2,15 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://engtweets.github.com/atom.xml" rel="self"/>
-  <link href="http://engtweets.github.com/"/>
-  <updated>2012-10-26T23:25:03+09:00</updated>
-  <id>http://engtweets.github.com/</id>
+  <link href="http://engtweets.github.io/atom.xml" rel="self"/>
+  <link href="http://engtweets.github.io/"/>
+  <updated>2014-10-31T22:30:34+09:00</updated>
+  <id>http://engtweets.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test Again]]></title>
+    <link href="http://engtweets.github.io/blog/2014/10/31/test-again/"/>
+    <updated>2014-10-31T22:28:49+09:00</updated>
+    <id>http://engtweets.github.io/blog/2014/10/31/test-again</id>
+    <content type="html"><![CDATA[<p>Test tetkjflakjfalsfja kfja dfakjfa;fja;dskjf;askj</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://engtweets.github.io/blog/2014/10/31/test/"/>
+    <updated>2014-10-31T22:18:51+09:00</updated>
+    <id>http://engtweets.github.io/blog/2014/10/31/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
